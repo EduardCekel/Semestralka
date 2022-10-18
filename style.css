@@ -34,6 +34,7 @@ nav ul li {
 main div.uvod  {
     background-color: rgb(10, 149, 95);
     color: whitesmoke;
+    display: flex;
 }
 
 main div.uvod div h1 {
@@ -53,6 +54,7 @@ main div.uvod {
 main div.uvod div h3 {
     font-size: 20px;
     padding-left: 20px;
+    width: 100%;
 }
 
 
@@ -65,7 +67,7 @@ main div.uvod div ul {
 }
 
 main div.uvod img {
-    width: 300px;
+    width: 23%;
     height: auto;
     box-shadow: 2px 4px 10px black;
 }
